@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Business enquiries and private due diligence
-    url: mailto:Eric@unireverseai.com
-    about: Email UniReverseAI for commercial enquiries and private verification material.
+    url: https://github.com/UniReverseAI/.github/blob/main/CONTRIBUTING.md#report-a-sensitive-issue-privately
+    about: Find the company email for commercial enquiries, private verification, and sensitive reports.
