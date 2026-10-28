@@ -19,7 +19,7 @@ Each repository describes its own execution steps, evidence and limitations. A s
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Guidance for reproducible reports and proposed changes |
 | [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Default templates for reference bugs and documentation questions |
 
-Technical reports belong in the repository they concern. Use [our website](https://unireverseai.com) or [company email](mailto:Eric@unireverseai.com) for business enquiries and private due-diligence material.
+Technical reports belong in the repository they concern. Contact [Eric@unireverseai.com](mailto:Eric@unireverseai.com) for business enquiries and private due-diligence material. The [website is in preparation](https://unireverseai.com).
 
 ## Rights
 

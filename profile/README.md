@@ -1,48 +1,29 @@
-![UniReverseAI — Understand the work. Make AI pay back.](https://raw.githubusercontent.com/UniReverseAI/.github/main/profile/assets/banner.svg)
-
 # UniReverseAI
 
-Applied AI consulting and embedded engineering for real business workflows.
+Applied AI consulting and engineering for sales-to-production workflows.
 
-We help companies understand how work gets done, assess where AI can create measurable value and build systems around the people and tools already running the business. Our focus spans sales enquiries, quotation preparation, customer follow-up, order coordination and sales-to-production handoffs.
+We study how work gets done, examine the investment case and build around the people and systems already running the business.
 
-## Inspect our public work
+## Choose your review path
 
-| Repository | What you can examine |
+| Your role | Start with the evidence |
 |---|---|
-| [Sales Workflow Reference](https://github.com/UniReverseAI/sales-workflow-reference) | A local enquiry-to-CRM reference with synthetic data, draft validation, version-bound scripted review and a simulated handoff. Inspect the code, run the examples and review the control tests. |
-| [AI Value Assessment](https://github.com/UniReverseAI/ai-value-assessment) | A transparent way to assess workflow economics: baseline effort, adoption, implementation and operating costs, recovered capacity and realised cash effects. |
-| [Delivery Playbook](https://github.com/UniReverseAI/delivery-playbook) | Worked scope and delivery examples, acceptance criteria, recovery procedures, handover checklists and data/supplier decision records. |
+| **Business owner** · Is the investment case credible? | [Value model and calculator](https://github.com/UniReverseAI/ai-value-assessment), [monthly cash-flow method](https://github.com/UniReverseAI/ai-value-assessment/blob/main/docs/cashflow.md), and [measurement plan](https://github.com/UniReverseAI/delivery-playbook/blob/main/templates/measurement-plan.md). Capacity and cash are measured separately. |
+| **Technical reviewer** · Can we inspect and reproduce it? | [Run the workflow](https://github.com/UniReverseAI/sales-workflow-reference), then inspect the [actual parser baseline](https://github.com/UniReverseAI/sales-workflow-reference/blob/main/evaluations/baseline-report.md) and [evaluation method](https://github.com/UniReverseAI/sales-workflow-reference/blob/main/docs/evaluation.md). |
+| **Procurement / partner** · How is delivery specified? | [Five-minute buyer guide](https://github.com/UniReverseAI/delivery-playbook/blob/main/docs/buyer-guide.md#procurement), then the [pilot scorecard](https://github.com/UniReverseAI/delivery-playbook/blob/main/templates/pilot-evaluation-scorecard.md) and [handover](https://github.com/UniReverseAI/delivery-playbook/blob/main/templates/handover-checklist.md). |
 
-The reference repositories use labelled synthetic examples and simulated integrations. They demonstrate implementation and assessment methods. Customer deployments and business-impact claims require their own scoped evidence, measurement and permission to disclose.
+The repositories contain **synthetic references and delivery specimens**. They make methods and implementation choices inspectable. Customer results, live integrations and operating commitments require evidence for the specific engagement. The workflow's local scripted review does not authenticate a real person.
+
+![UniReverseAI — Understand the work. Make AI pay back.](https://raw.githubusercontent.com/UniReverseAI/.github/main/profile/assets/banner.svg)
 
 ## Where we help
 
-**AI Opportunity Audit** · Map a defined workflow, establish its baseline, rank opportunities and prepare a pilot investment case.
+**AI Opportunity Audit** · **AI Sales Operations** · **Sales-to-Production AI** · **Managed AI Operations**.
 
-**AI Sales Operations** · Build agreed workflows for enquiry qualification, quotation preparation, follow-up and order entry, with clear review points and existing CRM/ERP interfaces.
-
-**Sales-to-Production AI** · Connect confirmed demand to specification handoff, change coordination and production-status workflows within an agreed scope.
-
-**Managed AI Operations** · Maintain agreed deployed workflows through monitoring, evaluation, issue handling and scoped improvement.
-
-## How we approach delivery
-
-1. **Understand the work.** Identify the people, systems, constraints and exceptions behind the process.
-2. **Establish the economics.** Make assumptions visible and include implementation, operating and human-review costs. Distinguish time released from spending actually reduced.
-3. **Build with controls.** Define what the workflow can do, where people approve decisions and how failures reach an owner.
-4. **Evaluate and hand over.** Review representative cases, record limitations and provide practical operating and recovery material.
-
-## Team responsibilities
-
-**Research & Business** brings workflow research, quantitative analysis and commercial assessment into the engagement.
-
-**Engineering** owns implementation, system integration, evaluation and operational handover within the agreed delivery scope.
-
-Project responsibilities and the relevant private verification material can be agreed during due diligence.
+An engagement defines the workflow, baseline, systems, decision authority, acceptance evidence and operating owner. Research & Business covers workflow investigation and quantitative assessment; Engineering covers implementation, integration, evaluation and handover within the agreed scope.
 
 ## Company and contact
 
-UniReverseAI is the public brand of **Unireverse OÜ**, registered in Estonia under registry code **17634890**.
+UniReverseAI is the public brand of **Unireverse OÜ**, registered in Estonia under registry code [**17634890**](https://ariregister.rik.ee/eng/company/17634890).
 
-[Website](https://unireverseai.com) · [Eric@unireverseai.com](mailto:Eric@unireverseai.com)
+[Business enquiries: Eric@unireverseai.com](mailto:Eric@unireverseai.com) · [Website (in preparation)](https://unireverseai.com)

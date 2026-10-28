@@ -28,4 +28,4 @@ Submit only material that you are entitled to share. Public visibility does not 
 
 For a suspected vulnerability, exposed credential or data-disclosure issue, contact [Eric@unireverseai.com](mailto:Eric@unireverseai.com) with the repository, affected revision and a minimal description. Do not publish working secrets or customer data in an Issue or pull request. A coordinated next step can then be agreed through the private channel.
 
-For commercial support, project information or private verification, use [unireverseai.com](https://unireverseai.com) or the company email. Public Issue activity does not establish a support contract or response commitment.
+For commercial support, project information or private verification, contact [Eric@unireverseai.com](mailto:Eric@unireverseai.com). Public Issue activity does not establish a support contract or response commitment.
