@@ -4,9 +4,9 @@ This repository contains the [UniReverseAI organization profile](profile/README.
 
 ## Public technical work
 
-- [Sales Workflow Reference](https://github.com/UniReverseAI/sales-workflow-reference): a controlled local workflow using synthetic inputs and a CRM simulation.
-- [AI Value Assessment](https://github.com/UniReverseAI/ai-value-assessment): inspectable workflow economics with explicit assumptions.
-- [Delivery Playbook](https://github.com/UniReverseAI/delivery-playbook): scope, acceptance, operation and handover reference material.
+- [Sales Workflow Reference](https://github.com/tom-unireverse/sales-workflow-reference): a controlled local workflow using synthetic inputs and a CRM simulation.
+- [AI Value Assessment](https://github.com/tom-unireverse/ai-value-assessment): inspectable workflow economics with explicit assumptions.
+- [Delivery Playbook](https://github.com/tom-unireverse/delivery-playbook): scope, acceptance, operation and handover reference material.
 
 Each repository describes its own execution steps, evidence and limitations. A synthetic example is not a customer deployment or a measured business result.
 

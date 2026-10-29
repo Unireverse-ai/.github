@@ -8,13 +8,13 @@ We study how work gets done, examine the investment case and build around the pe
 
 | Your role | Start with the evidence |
 |---|---|
-| **Business owner** · Is the investment case credible? | [Value model and calculator](https://github.com/UniReverseAI/ai-value-assessment), [monthly cash-flow method](https://github.com/UniReverseAI/ai-value-assessment/blob/main/docs/cashflow.md), and [measurement plan](https://github.com/UniReverseAI/delivery-playbook/blob/main/templates/measurement-plan.md). Capacity and cash are measured separately. |
-| **Technical reviewer** · Can we inspect and reproduce it? | [Run the workflow](https://github.com/UniReverseAI/sales-workflow-reference), then inspect the [actual parser baseline](https://github.com/UniReverseAI/sales-workflow-reference/blob/main/evaluations/baseline-report.md) and [evaluation method](https://github.com/UniReverseAI/sales-workflow-reference/blob/main/docs/evaluation.md). |
-| **Procurement / partner** · How is delivery specified? | [Five-minute buyer guide](https://github.com/UniReverseAI/delivery-playbook/blob/main/docs/buyer-guide.md#procurement), then the [pilot scorecard](https://github.com/UniReverseAI/delivery-playbook/blob/main/templates/pilot-evaluation-scorecard.md) and [handover](https://github.com/UniReverseAI/delivery-playbook/blob/main/templates/handover-checklist.md). |
+| **Business owner** · Is the investment case credible? | [Value model and calculator](https://github.com/tom-unireverse/ai-value-assessment), [monthly cash-flow method](https://github.com/tom-unireverse/ai-value-assessment/blob/main/docs/cashflow.md), and [measurement plan](https://github.com/tom-unireverse/delivery-playbook/blob/main/templates/measurement-plan.md). Capacity and cash are measured separately. |
+| **Technical reviewer** · Can we inspect and reproduce it? | [Run the workflow](https://github.com/tom-unireverse/sales-workflow-reference), then inspect the [actual parser baseline](https://github.com/tom-unireverse/sales-workflow-reference/blob/main/evaluations/baseline-report.md) and [evaluation method](https://github.com/tom-unireverse/sales-workflow-reference/blob/main/docs/evaluation.md). |
+| **Procurement / partner** · How is delivery specified? | [Five-minute buyer guide](https://github.com/tom-unireverse/delivery-playbook/blob/main/docs/buyer-guide.md#procurement), then the [pilot scorecard](https://github.com/tom-unireverse/delivery-playbook/blob/main/templates/pilot-evaluation-scorecard.md) and [handover](https://github.com/tom-unireverse/delivery-playbook/blob/main/templates/handover-checklist.md). |
 
 The repositories contain **synthetic references and delivery specimens**. They make methods and implementation choices inspectable. Customer results, live integrations and operating commitments require evidence for the specific engagement. The workflow's local scripted review does not authenticate a real person.
 
-![UniReverseAI — Understand the work. Make AI pay back.](https://raw.githubusercontent.com/UniReverseAI/.github/main/profile/assets/banner.svg)
+![UniReverseAI — Understand the work. Make AI pay back.](https://raw.githubusercontent.com/tom-unireverse/tom-unireverse/main/assets/banner.svg)
 
 ## Where we help
 
