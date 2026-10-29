@@ -4,9 +4,9 @@ This repository contains the [UniReverseAI organization profile](profile/README.
 
 ## Public technical work
 
-- [Sales Workflow Reference](https://github.com/tom-unireverse/sales-workflow-reference): a controlled local workflow using synthetic inputs and a CRM simulation.
-- [AI Value Assessment](https://github.com/tom-unireverse/ai-value-assessment): inspectable workflow economics with explicit assumptions.
-- [Delivery Playbook](https://github.com/tom-unireverse/delivery-playbook): scope, acceptance, operation and handover reference material.
+- [Sales Workflow Reference](https://github.com/Unireverse-ai/sales-workflow-reference): a controlled local workflow using synthetic inputs and a CRM simulation.
+- [AI Value Assessment](https://github.com/Unireverse-ai/ai-value-assessment): inspectable workflow economics with explicit assumptions.
+- [Delivery Playbook](https://github.com/Unireverse-ai/delivery-playbook): scope, acceptance, operation and handover reference material.
 
 Each repository describes its own execution steps, evidence and limitations. A synthetic example is not a customer deployment or a measured business result.
 
@@ -16,10 +16,11 @@ Each repository describes its own execution steps, evidence and limitations. A s
 |---|---|
 | [profile/README.md](profile/README.md) | Public organization homepage |
 | [profile/assets/banner.svg](profile/assets/banner.svg) | Organization header using the UniReverse visual identity |
+| [profile/assets/flow.svg](profile/assets/flow.svg), [profile/assets/chain.svg](profile/assets/chain.svg) | Animated overview diagrams: manual-to-automated flow and the engagement chain |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Guidance for reproducible reports and proposed changes |
 | [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Default templates for reference bugs and documentation questions |
 
-Technical reports belong in the repository they concern. Contact [Eric@unireverseai.com](mailto:Eric@unireverseai.com) for business enquiries and private due-diligence material. The [website is in preparation](https://unireverseai.com).
+Technical reports belong in the repository they concern. Contact [Eric@unireverseai.com](mailto:Eric@unireverseai.com) for business enquiries and private due-diligence material. The website is [unireverseai.com](https://unireverseai.com).
 
 ## Rights
 
