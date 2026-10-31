@@ -1,4 +1,11 @@
-# UniReverseAI
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unireverse-ai/.github/main/brand/svg/unireverse-full-transparent-white-4k.svg">
+    <img alt="UniReverse" src="https://raw.githubusercontent.com/Unireverse-ai/.github/main/brand/svg/unireverse-full-transparent-black-4k.svg" width="360">
+  </picture>
+</p>
+
+**Applied AI. Real business.** · [unireverseai.com](https://unireverseai.com)
 
 Applied AI consulting and engineering for sales-to-production workflows.
 
